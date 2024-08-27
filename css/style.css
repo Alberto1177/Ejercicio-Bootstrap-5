@@ -1,0 +1,9 @@
+.carrusel, footer,ul, .list{
+    margin: 20px 10px 20px 0px;
+}
+
+@media (max-width: 576px){
+    .footer-title, p, ul, h5{
+        text-align: center;
+    }
+}
